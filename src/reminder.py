@@ -10,4 +10,4 @@ class PrefixedReminder:
 
 class PoliteReminder(PrefixedReminder):
     def __init__(self, text):
-        super().__
+        super().__init__()
